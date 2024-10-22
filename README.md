@@ -1,5 +1,7 @@
 # Conversor de Moneda 💱
-
+<p align="left">
+   <img src="https://img.shields.io/github/stars/AFernandzG?style=social">
+   </p>
 ¡Bienvenido al Conversor de Moneda! Esta aplicación te permite convertir diversas monedas utilizando la API de **Exchange Rate API**. Además, guarda un historial de consultas en un archivo JSON. 📊
 
 ## Características ✨
