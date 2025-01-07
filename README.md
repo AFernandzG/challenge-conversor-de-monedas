@@ -21,7 +21,7 @@
 
 1. Clona este repositorio:
     ```bash
-    git clone https://github.com/tu-usuario/conversor-de-moneda.git
+    git clone https://github.com/AFernandzG/conversor-de-moneda.git
     ```
 
 2. Navega al directorio del proyecto:
